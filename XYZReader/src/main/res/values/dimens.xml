@@ -1,0 +1,32 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">20sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">8dp</dimen>
+    <dimen name="appBar_elevation">4dp</dimen>
+    <dimen name="iButton_elevation">2dp</dimen>
+    <dimen name="cardView_elevation">1dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="cardView_margin">4dp</dimen>
+    <dimen name="cardView_radius">4dp</dimen>
+    <dimen name="title_tv_padding">8dp</dimen>
+    <dimen name="title_tv_padding_bottom">4dp</dimen>
+    <dimen name="card_title_textSize">24sp</dimen>
+    <dimen name="card_linear2_margin">4dp</dimen>
+    <dimen name="subtitle_textSize">16sp</dimen>
+    <dimen name="subTittle_padding_top">16dp</dimen>
+    <dimen name="suTtittle_padding_left">8dp</dimen>
+    <dimen name="subTittle_padding_right">4dp</dimen>
+    <dimen name="suTtittle_padding_bottom">4dp</dimen>
+    <dimen name="rv_item_padding_top">6dp</dimen>
+    <dimen name="rv_item_padding_bottom">28dp</dimen>
+    <dimen name="appBar_height">100dp</dimen>
+    <dimen name="iv_leftMargin">96dp</dimen>
+    <dimen name="iv_arrow_marginTop">8dp</dimen>
+    <dimen name="iv_arrow_width">48dp</dimen>
+    <dimen name="iv_arrow_height">40dp</dimen>
+
+</resources>
